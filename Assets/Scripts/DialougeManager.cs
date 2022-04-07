@@ -13,7 +13,7 @@ public class DialougeManager : MonoBehaviour
     // Start is called before the first frame update
     public void Start()
     { sentances = new Queue<string>(); }
-    public void StartDialouge(string sentance)
+    public void StartDialouge(string[] sentance)
     {
         sentances.Clear(); dialougeUI.SetActive(true);
         Player.GetComponent<Player_Controller>().enabled = false; Player.GetComponent<PlayerInteractions>().enabled = false;
