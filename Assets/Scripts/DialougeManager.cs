@@ -16,7 +16,7 @@ public class DialougeManager : MonoBehaviour
     public void StartDialouge(string sentance)
     {
         sentances.Clear(); dialougeUI.SetActive(true);
-        Player.GetComponent<PlayerController>().enabled = false; Player.GetComponent<PlayerInteractions>().enabled = false;
+        Player.GetComponent<Player_Controller>().enabled = false; Player.GetComponent<PlayerInteractions>().enabled = false;
         animator.SetFloat("Speed", 0); Player.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
         foreach (string currentLine in sentance)
         { sentances.Enqueue(currentLine); }
@@ -28,5 +28,5 @@ public class DialougeManager : MonoBehaviour
         string currentLine = sentances.Dequeue(); dialougeText.text = currentLine;
     }
     public void EndDialouge()
-    { dialougeUI.SetActive(false); Player.GetComponent<PlayerController>().enabled = true; Player.GetComponent<PlayerInteractions>().enabled = true; }
+    { dialougeUI.SetActive(false); Player.GetComponent<Player_Controller>().enabled = true; Player.GetComponent<PlayerInteractions>().enabled = true; }
 }
