@@ -6,15 +6,19 @@ public class PlayerInteractions : MonoBehaviour
 {
 	public GameObject currentInterObj = null;
 	public Interactables_Manager currentInteractObjScript = null;
+	[Header("Win and Last Step")]
 	public int winCount;
 	public GameObject winText;
+	public GameObject lastStep;
 
 	private void Update()
 	{
 		if (Input.GetKeyDown(KeyCode.Space) && currentInterObj == true)
 		{ Checkinteraction(); }
 		if (winCount == 5)
-		{ winText.SetActive(true); }
+		{ lastStep.SetActive(true); }
+		if (winCount == 6)
+		{ lastStep.SetActive(false);  winText.SetActive(true); }
 	}
 	void Checkinteraction()
 	{
