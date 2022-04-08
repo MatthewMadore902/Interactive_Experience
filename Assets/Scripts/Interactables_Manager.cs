@@ -10,17 +10,21 @@ public class Interactables_Manager : MonoBehaviour
 
     public Interactable_Type interType;
     public string infoMessage;
+    public int winCount;
+    public GameObject winText;
     [Header("Dialouge")]
     [TextArea(3, 10)]
     public string[] sentance;
     public Text infoText;
     public DialougeManager dM;
     [Header("NPC differant dialouge")]
-    public GameObject questGiver;
-    public GameObject questFinisher;
-    public GameObject itemGiver;
-    public bool questComplete;
-    public bool questInProgress;
+    public GameObject npcBeforeGottenItem;
+    public GameObject npcAfterItem;
+    public GameObject itemNeeded;
+    public bool questStarted;
+    public bool itemGotten;
+
+
 
     // Start is called before the first frame update
     void Start()
@@ -29,22 +33,25 @@ public class Interactables_Manager : MonoBehaviour
     public void Nothing()
     { Debug.Log("This Object" + this.gameObject.name + "Has No Type Yet"); }
     public void PickUp()
-    { gameObject.SetActive(false); }
+    { gameObject.SetActive(false); itemGotten = true;
+        winCount++;
+        if (winCount == 5)
+        { winText.SetActive(true); }
+        if (itemGotten == true)
+        { npcBeforeGottenItem.SetActive(false); npcAfterItem.SetActive(true); }
+    }
     public void InfoMessage()
     { StartCoroutine(ShowInfo(infoMessage, 3f)); infoText.text = infoMessage; }
     public void Dialouge()
     { FindObjectOfType<DialougeManager>().StartDialouge(sentance); GameObject.Find("DialougeUI").SetActive(true);
-        if (questInProgress == true)
-        { QuestInPorgress(); }
-        if (questComplete == true)
-        { QuestComplete(); }
+        QuestStarted();
     }
     IEnumerator ShowInfo(string message, float delay)
     { infoText.text = message; yield return new WaitForSeconds(delay); infoText.text = null; }
-    public void QuestComplete()
-    { questGiver.SetActive(false); questFinisher.SetActive(true); itemGiver.SetActive(false); }
-    //Turn a sprite off and another on when a certain npc has been talked to
-    public void QuestInPorgress()
-    { itemGiver.SetActive(true); }
+    public void QuestStarted()
+    { questStarted = true; itemNeeded.SetActive(true);
+    }
+
+
 
 }

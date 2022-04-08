@@ -1,136 +1,187 @@
 fileFormatVersion: 2
-guid: 86ccadd440829394a99540fec7a70ac4
+guid: e3d80d65a2763d14bb95529d366f1eb0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8886424774559192063
-    second: Tiilemap_Sheet_Matthew_Madore_0
+      213: -3974262598131278372
+    second: Tiilemap_Sheet_Matthew_Madore 1_0
   - first:
-      213: 8082083277301628709
-    second: Tiilemap_Sheet_Matthew_Madore_1
+      213: 3255465070411132464
+    second: Tiilemap_Sheet_Matthew_Madore 1_1
   - first:
-      213: 2992614105074212708
-    second: Tiilemap_Sheet_Matthew_Madore_2
+      213: 7405265232044066155
+    second: Tiilemap_Sheet_Matthew_Madore 1_2
   - first:
-      213: -9154358723676631336
-    second: Tiilemap_Sheet_Matthew_Madore_3
+      213: -1240609626929202453
+    second: Tiilemap_Sheet_Matthew_Madore 1_3
   - first:
-      213: 3800167130800454444
-    second: Tiilemap_Sheet_Matthew_Madore_4
+      213: -3666321961323821144
+    second: Tiilemap_Sheet_Matthew_Madore 1_4
   - first:
-      213: 3214451590599513440
-    second: Tiilemap_Sheet_Matthew_Madore_5
+      213: 2297025957116357094
+    second: Tiilemap_Sheet_Matthew_Madore 1_5
   - first:
-      213: 6927809908076787402
-    second: Tiilemap_Sheet_Matthew_Madore_6
+      213: -5832783115556005230
+    second: Tiilemap_Sheet_Matthew_Madore 1_6
   - first:
-      213: 723241447313730984
-    second: Tiilemap_Sheet_Matthew_Madore_7
+      213: 1209248182848779316
+    second: Tiilemap_Sheet_Matthew_Madore 1_7
   - first:
-      213: -2515431156681684044
-    second: Tiilemap_Sheet_Matthew_Madore_8
+      213: 5260271386796435534
+    second: Tiilemap_Sheet_Matthew_Madore 1_8
   - first:
-      213: -2667483600414770293
-    second: Tiilemap_Sheet_Matthew_Madore_9
+      213: -3874603877170714018
+    second: Tiilemap_Sheet_Matthew_Madore 1_9
   - first:
-      213: -4295041012556432509
-    second: Tiilemap_Sheet_Matthew_Madore_10
+      213: 2354237642079842931
+    second: Tiilemap_Sheet_Matthew_Madore 1_10
   - first:
-      213: -7741188553787961803
-    second: Tiilemap_Sheet_Matthew_Madore_11
+      213: -7482258935927058186
+    second: Tiilemap_Sheet_Matthew_Madore 1_11
   - first:
-      213: 6164803347718376529
-    second: Tiilemap_Sheet_Matthew_Madore_12
+      213: -8300495960853876674
+    second: Tiilemap_Sheet_Matthew_Madore 1_12
   - first:
-      213: -4850362625987583753
-    second: Tiilemap_Sheet_Matthew_Madore_13
+      213: 8604765981406889192
+    second: Tiilemap_Sheet_Matthew_Madore 1_13
   - first:
-      213: -5489662188471790584
-    second: Tiilemap_Sheet_Matthew_Madore_14
+      213: -7801741386081137913
+    second: Tiilemap_Sheet_Matthew_Madore 1_14
   - first:
-      213: -5895249578308929047
-    second: Tiilemap_Sheet_Matthew_Madore_15
+      213: -7735467748000399779
+    second: Tiilemap_Sheet_Matthew_Madore 1_15
   - first:
-      213: -4348337421283320943
-    second: Tiilemap_Sheet_Matthew_Madore_16
+      213: 3622508226704469705
+    second: Tiilemap_Sheet_Matthew_Madore 1_16
   - first:
-      213: 8123314700587324790
-    second: Tiilemap_Sheet_Matthew_Madore_17
+      213: 1786835485104753563
+    second: Tiilemap_Sheet_Matthew_Madore 1_17
   - first:
-      213: 8249314873805843297
-    second: Tiilemap_Sheet_Matthew_Madore_18
+      213: -8413486279538026693
+    second: Tiilemap_Sheet_Matthew_Madore 1_18
   - first:
-      213: 8782823372585727688
-    second: Tiilemap_Sheet_Matthew_Madore_19
+      213: -4032527666410957134
+    second: Tiilemap_Sheet_Matthew_Madore 1_19
   - first:
-      213: 8719315318273257210
-    second: Tiilemap_Sheet_Matthew_Madore_20
+      213: -4825765489705610748
+    second: Tiilemap_Sheet_Matthew_Madore 1_20
   - first:
-      213: -5984214492293302901
-    second: Tiilemap_Sheet_Matthew_Madore_21
+      213: 5838021242726368098
+    second: Tiilemap_Sheet_Matthew_Madore 1_21
   - first:
-      213: 5802400605516154465
-    second: Tiilemap_Sheet_Matthew_Madore_22
+      213: -7014417400075550727
+    second: Tiilemap_Sheet_Matthew_Madore 1_22
   - first:
-      213: 322680812486579795
-    second: Tiilemap_Sheet_Matthew_Madore_23
+      213: 4728219276405480669
+    second: Tiilemap_Sheet_Matthew_Madore 1_23
   - first:
-      213: 6032012156095546268
-    second: Tiilemap_Sheet_Matthew_Madore_24
+      213: 4079389773510645953
+    second: Tiilemap_Sheet_Matthew_Madore 1_24
   - first:
-      213: -1819300307145267443
-    second: Tiilemap_Sheet_Matthew_Madore_25
+      213: -4321998646263294593
+    second: Tiilemap_Sheet_Matthew_Madore 1_25
   - first:
-      213: 8303352679016836698
-    second: Tiilemap_Sheet_Matthew_Madore_26
+      213: -2153095244374278721
+    second: Tiilemap_Sheet_Matthew_Madore 1_26
   - first:
-      213: -2815112320737373778
-    second: Tiilemap_Sheet_Matthew_Madore_27
+      213: 6160146668963503709
+    second: Tiilemap_Sheet_Matthew_Madore 1_27
   - first:
-      213: 1288167275435046620
-    second: Tiilemap_Sheet_Matthew_Madore_28
+      213: -2089068196338837747
+    second: Tiilemap_Sheet_Matthew_Madore 1_28
   - first:
-      213: -7570480396124342257
-    second: Tiilemap_Sheet_Matthew_Madore_29
+      213: 1678000470385880420
+    second: Tiilemap_Sheet_Matthew_Madore 1_29
   - first:
-      213: 6674186850455449447
-    second: Tiilemap_Sheet_Matthew_Madore_30
+      213: 5028735767323978060
+    second: Tiilemap_Sheet_Matthew_Madore 1_30
   - first:
-      213: -1430930172179480211
-    second: Tiilemap_Sheet_Matthew_Madore_31
+      213: -3121013837250526847
+    second: Tiilemap_Sheet_Matthew_Madore 1_31
   - first:
-      213: -1369744216669621359
-    second: Tiilemap_Sheet_Matthew_Madore_32
+      213: 6508923516024155716
+    second: Tiilemap_Sheet_Matthew_Madore 1_32
   - first:
-      213: 6622018948318359271
-    second: Tiilemap_Sheet_Matthew_Madore_33
+      213: 4612112696137883150
+    second: Tiilemap_Sheet_Matthew_Madore 1_33
   - first:
-      213: 1687774142192461650
-    second: Tiilemap_Sheet_Matthew_Madore_34
+      213: -8891606963021390805
+    second: Tiilemap_Sheet_Matthew_Madore 1_34
   - first:
-      213: -74306834897955442
-    second: Tiilemap_Sheet_Matthew_Madore_35
+      213: 3448476958310208550
+    second: Tiilemap_Sheet_Matthew_Madore 1_35
   - first:
-      213: 6120698331893236100
-    second: Tiilemap_Sheet_Matthew_Madore_36
+      213: 218576799562332254
+    second: Tiilemap_Sheet_Matthew_Madore 1_36
   - first:
-      213: 5352302623176537502
-    second: Tiilemap_Sheet_Matthew_Madore_37
+      213: 225279871880602773
+    second: Tiilemap_Sheet_Matthew_Madore 1_37
   - first:
-      213: -4508185994816430720
-    second: Tiilemap_Sheet_Matthew_Madore_38
+      213: -6083201756977878194
+    second: Tiilemap_Sheet_Matthew_Madore 1_38
   - first:
-      213: 2353385038977372614
-    second: Tiilemap_Sheet_Matthew_Madore_39
+      213: -76481940245169468
+    second: Tiilemap_Sheet_Matthew_Madore 1_39
   - first:
-      213: -3280650834590815407
-    second: Tiilemap_Sheet_Matthew_Madore_40
+      213: 7524601260331003158
+    second: Tiilemap_Sheet_Matthew_Madore 1_40
   - first:
-      213: 5589725407808064701
-    second: Tiilemap_Sheet_Matthew_Madore_41
+      213: -633353881185676237
+    second: Tiilemap_Sheet_Matthew_Madore 1_41
   - first:
-      213: 7580765105445821039
-    second: Tiilemap_Sheet_Matthew_Madore_42
+      213: 1360725917348373462
+    second: Tiilemap_Sheet_Matthew_Madore 1_42
+  - first:
+      213: -7186309302620379007
+    second: Tiilemap_Sheet_Matthew_Madore 1_43
+  - first:
+      213: -8219590235096898959
+    second: Tiilemap_Sheet_Matthew_Madore 1_44
+  - first:
+      213: 2301275221621208470
+    second: Tiilemap_Sheet_Matthew_Madore 1_45
+  - first:
+      213: 264853091385884565
+    second: Tiilemap_Sheet_Matthew_Madore 1_46
+  - first:
+      213: 6834304937327522735
+    second: Tiilemap_Sheet_Matthew_Madore 1_47
+  - first:
+      213: 6037220959178157801
+    second: Tiilemap_Sheet_Matthew_Madore 1_48
+  - first:
+      213: 5630338556823502798
+    second: Tiilemap_Sheet_Matthew_Madore 1_49
+  - first:
+      213: -3973977674641233438
+    second: Tiilemap_Sheet_Matthew_Madore 1_50
+  - first:
+      213: -3624388236423669862
+    second: Tiilemap_Sheet_Matthew_Madore 1_51
+  - first:
+      213: -1187822331941083191
+    second: Tiilemap_Sheet_Matthew_Madore 1_52
+  - first:
+      213: -1532421252347495107
+    second: Tiilemap_Sheet_Matthew_Madore 1_53
+  - first:
+      213: 887798108174373812
+    second: Tiilemap_Sheet_Matthew_Madore 1_54
+  - first:
+      213: 64068280388814056
+    second: Tiilemap_Sheet_Matthew_Madore 1_55
+  - first:
+      213: 7598523791589378026
+    second: Tiilemap_Sheet_Matthew_Madore 1_56
+  - first:
+      213: -1263241812362801275
+    second: Tiilemap_Sheet_Matthew_Madore 1_57
+  - first:
+      213: -6577781469019121290
+    second: Tiilemap_Sheet_Matthew_Madore 1_58
+  - first:
+      213: -4640846007499734156
+    second: Tiilemap_Sheet_Matthew_Madore 1_59
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -292,7 +343,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_0
+      name: Tiilemap_Sheet_Matthew_Madore 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -306,14 +357,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff3d4da004ce25b70800000000000000
-      internalID: 8886424774559192063
+      spriteID: cdd934a393598d8c0800000000000000
+      internalID: -3974262598131278372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_1
+      name: Tiilemap_Sheet_Matthew_Madore 1_1
       rect:
         serializedVersion: 2
         x: 32
@@ -327,14 +378,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52f30b48be3592070800000000000000
-      internalID: 8082083277301628709
+      spriteID: 03e2c8cbb3cbd2d20800000000000000
+      internalID: 3255465070411132464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_2
+      name: Tiilemap_Sheet_Matthew_Madore 1_2
       rect:
         serializedVersion: 2
         x: 64
@@ -348,14 +399,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46f95ca4ca6e78920800000000000000
-      internalID: 2992614105074212708
+      spriteID: b6589876e79c4c660800000000000000
+      internalID: 7405265232044066155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_3
+      name: Tiilemap_Sheet_Matthew_Madore 1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea74f90e1878cee0800000000000000
+      internalID: -1240609626929202453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a78417e99b9e1dc0800000000000000
+      internalID: -3666321961323821144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_5
       rect:
         serializedVersion: 2
         x: 160
@@ -369,14 +462,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8de81c02e3f25f080800000000000000
-      internalID: -9154358723676631336
+      spriteID: 6e9a5c510fca0ef10800000000000000
+      internalID: 2297025957116357094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_4
+      name: Tiilemap_Sheet_Matthew_Madore 1_6
       rect:
         serializedVersion: 2
         x: 192
@@ -390,14 +483,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2bf97e0fd7ecb430800000000000000
-      internalID: 3800167130800454444
+      spriteID: 29a5369e8aacd0fa0800000000000000
+      internalID: -5832783115556005230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_5
+      name: Tiilemap_Sheet_Matthew_Madore 1_7
       rect:
         serializedVersion: 2
         x: 224
@@ -411,14 +504,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0659f55d0b60c9c20800000000000000
-      internalID: 3214451590599513440
+      spriteID: 434fcffb0dc18c010800000000000000
+      internalID: 1209248182848779316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_6
+      name: Tiilemap_Sheet_Matthew_Madore 1_8
       rect:
         serializedVersion: 2
         x: 0
@@ -432,14 +525,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac639520866842060800000000000000
-      internalID: 6927809908076787402
+      spriteID: e482728c4fc300940800000000000000
+      internalID: 5260271386796435534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_7
+      name: Tiilemap_Sheet_Matthew_Madore 1_9
       rect:
         serializedVersion: 2
         x: 64
@@ -453,14 +546,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ad69f1b348790a00800000000000000
-      internalID: 723241447313730984
+      spriteID: e5a63ef5d44aa3ac0800000000000000
+      internalID: -3874603877170714018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_8
+      name: Tiilemap_Sheet_Matthew_Madore 1_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b50589aeeba020800000000000000
+      internalID: 2354237642079842931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f05396f32da92890800000000000000
+      internalID: -7482258935927058186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_12
       rect:
         serializedVersion: 2
         x: 160
@@ -474,14 +609,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bbc909b0b4671dd0800000000000000
-      internalID: -2515431156681684044
+      spriteID: e307db9c6e6becc80800000000000000
+      internalID: -8300495960853876674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_9
+      name: Tiilemap_Sheet_Matthew_Madore 1_13
       rect:
         serializedVersion: 2
         x: 192
@@ -495,14 +630,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8bf8116cc13bfad0800000000000000
-      internalID: -2667483600414770293
+      spriteID: 8e48f11f1154a6770800000000000000
+      internalID: 8604765981406889192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_10
+      name: Tiilemap_Sheet_Matthew_Madore 1_14
       rect:
         serializedVersion: 2
         x: 224
@@ -516,14 +651,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38bf6d684f2f464c0800000000000000
-      internalID: -4295041012556432509
+      spriteID: 70b8b257b85aab390800000000000000
+      internalID: -7801741386081137913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_11
+      name: Tiilemap_Sheet_Matthew_Madore 1_15
       rect:
         serializedVersion: 2
         x: 0
@@ -537,14 +672,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53e06206606c19490800000000000000
-      internalID: -7741188553787961803
+      spriteID: d5ef1f4411916a490800000000000000
+      internalID: -7735467748000399779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_12
+      name: Tiilemap_Sheet_Matthew_Madore 1_16
       rect:
         serializedVersion: 2
         x: 32
@@ -558,14 +693,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15c84e27bf7cd8550800000000000000
-      internalID: 6164803347718376529
+      spriteID: 9ce66a01a0cb54230800000000000000
+      internalID: 3622508226704469705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_13
+      name: Tiilemap_Sheet_Matthew_Madore 1_17
       rect:
         serializedVersion: 2
         x: 64
@@ -579,14 +714,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f0ed26d3ec00bcb0800000000000000
-      internalID: -4850362625987583753
+      spriteID: b9b4bb9186d1cc810800000000000000
+      internalID: 1786835485104753563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_14
+      name: Tiilemap_Sheet_Matthew_Madore 1_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3753892eca4d3b80800000000000000
+      internalID: -8413486279538026693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_19
       rect:
         serializedVersion: 2
         x: 160
@@ -600,14 +756,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 804de37335dc0d3b0800000000000000
-      internalID: -5489662188471790584
+      spriteID: 2b6d3a0e3759908c0800000000000000
+      internalID: -4032527666410957134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_15
+      name: Tiilemap_Sheet_Matthew_Madore 1_20
       rect:
         serializedVersion: 2
         x: 192
@@ -621,14 +777,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e9ff9e2ebddf2ea0800000000000000
-      internalID: -5895249578308929047
+      spriteID: 40212c8eadf670db0800000000000000
+      internalID: -4825765489705610748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_16
+      name: Tiilemap_Sheet_Matthew_Madore 1_21
       rect:
         serializedVersion: 2
         x: 224
@@ -642,14 +798,77 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19b9ed0672a97a3c0800000000000000
-      internalID: -4348337421283320943
+      spriteID: 263c3eb9361d40150800000000000000
+      internalID: 5838021242726368098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_17
+      name: Tiilemap_Sheet_Matthew_Madore 1_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff7d22e988c7ae90800000000000000
+      internalID: -7014417400075550727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc9d4671620e9140800000000000000
+      internalID: 4728219276405480669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8967ea267ec9830800000000000000
+      internalID: 4079389773510645953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_25
       rect:
         serializedVersion: 2
         x: 96
@@ -663,14 +882,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67557375eafcbb070800000000000000
-      internalID: 8123314700587324790
+      spriteID: f75d1c1512d2504c0800000000000000
+      internalID: -4321998646263294593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_18
+      name: Tiilemap_Sheet_Matthew_Madore 1_26
       rect:
         serializedVersion: 2
         x: 128
@@ -684,14 +903,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16b2b85cb247b7270800000000000000
-      internalID: 8249314873805843297
+      spriteID: fbdfc77684bae12e0800000000000000
+      internalID: -2153095244374278721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_19
+      name: Tiilemap_Sheet_Matthew_Madore 1_27
       rect:
         serializedVersion: 2
         x: 160
@@ -705,14 +924,98 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c678ffe25bd2e970800000000000000
-      internalID: 8782823372585727688
+      spriteID: d5e10efe1cc3d7550800000000000000
+      internalID: 6160146668963503709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_20
+      name: Tiilemap_Sheet_Matthew_Madore 1_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0758a53b832203e0800000000000000
+      internalID: -2089068196338837747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46de9429984794710800000000000000
+      internalID: 1678000470385880420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49a5a87988a9c540800000000000000
+      internalID: 5028735767323978060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1818a9b637eefa4d0800000000000000
+      internalID: -3121013837250526847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_32
       rect:
         serializedVersion: 2
         x: 64
@@ -726,14 +1029,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: afeac46c51b310970800000000000000
-      internalID: 8719315318273257210
+      spriteID: 44e6ecab377545a50800000000000000
+      internalID: 6508923516024155716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_21
+      name: Tiilemap_Sheet_Matthew_Madore 1_33
       rect:
         serializedVersion: 2
         x: 96
@@ -747,14 +1050,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b85fc1fff9cc3fca0800000000000000
-      internalID: -5984214492293302901
+      spriteID: e0e1e55af04810040800000000000000
+      internalID: 4612112696137883150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_22
+      name: Tiilemap_Sheet_Matthew_Madore 1_34
       rect:
         serializedVersion: 2
         x: 128
@@ -768,14 +1071,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1664d48bb94468050800000000000000
-      internalID: 5802400605516154465
+      spriteID: b2c58bea39aaa9480800000000000000
+      internalID: -8891606963021390805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_23
+      name: Tiilemap_Sheet_Matthew_Madore 1_35
       rect:
         serializedVersion: 2
         x: 160
@@ -789,14 +1092,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 356d8144d746a7400800000000000000
-      internalID: 322680812486579795
+      spriteID: 6241334d5837bdf20800000000000000
+      internalID: 3448476958310208550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_24
+      name: Tiilemap_Sheet_Matthew_Madore 1_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58fd0ee07a880300800000000000000
+      internalID: 218576799562332254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5942d7299da502300800000000000000
+      internalID: 225279871880602773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_38
       rect:
         serializedVersion: 2
         x: 0
@@ -810,14 +1155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c93c9e4d81306b350800000000000000
-      internalID: 6032012156095546268
+      spriteID: e4b2d427b30249ba0800000000000000
+      internalID: -6083201756977878194
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_25
+      name: Tiilemap_Sheet_Matthew_Madore 1_39
       rect:
         serializedVersion: 2
         x: 32
@@ -831,14 +1176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d07e8dc720c80c6e0800000000000000
-      internalID: -1819300307145267443
+      spriteID: 4ca34ff941840fef0800000000000000
+      internalID: -76481940245169468
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_26
+      name: Tiilemap_Sheet_Matthew_Madore 1_40
       rect:
         serializedVersion: 2
         x: 64
@@ -852,14 +1197,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5e269db44f6b3370800000000000000
-      internalID: 8303352679016836698
+      spriteID: 61d6c7eaaf0cc6860800000000000000
+      internalID: 7524601260331003158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_27
+      name: Tiilemap_Sheet_Matthew_Madore 1_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33410de2000e537f0800000000000000
+      internalID: -633353881185676237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_42
       rect:
         serializedVersion: 2
         x: 128
@@ -873,14 +1239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea19f976246bee8d0800000000000000
-      internalID: -2815112320737373778
+      spriteID: 6d3a73c230542e210800000000000000
+      internalID: 1360725917348373462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_28
+      name: Tiilemap_Sheet_Matthew_Madore 1_43
       rect:
         serializedVersion: 2
         x: 160
@@ -894,14 +1260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd6b69fdf4d70e110800000000000000
-      internalID: 1288167275435046620
+      spriteID: 1882a3393c9154c90800000000000000
+      internalID: -7186309302620379007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_29
+      name: Tiilemap_Sheet_Matthew_Madore 1_44
       rect:
         serializedVersion: 2
         x: 192
@@ -915,14 +1281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0833f9903040f690800000000000000
-      internalID: -7570480396124342257
+      spriteID: 172a7cdfa362eed80800000000000000
+      internalID: -8219590235096898959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_30
+      name: Tiilemap_Sheet_Matthew_Madore 1_45
       rect:
         serializedVersion: 2
         x: 224
@@ -936,14 +1302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76feaf144997f9c50800000000000000
-      internalID: 6674186850455449447
+      spriteID: 695f3231f95cfef10800000000000000
+      internalID: 2301275221621208470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_31
+      name: Tiilemap_Sheet_Matthew_Madore 1_46
       rect:
         serializedVersion: 2
         x: 0
@@ -957,14 +1323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d618adcf690542ce0800000000000000
-      internalID: -1430930172179480211
+      spriteID: 59f38bdbb72fca300800000000000000
+      internalID: 264853091385884565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_32
+      name: Tiilemap_Sheet_Matthew_Madore 1_47
       rect:
         serializedVersion: 2
         x: 64
@@ -978,14 +1344,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 193f24464e0bdfce0800000000000000
-      internalID: -1369744216669621359
+      spriteID: fa3fa1c712458de50800000000000000
+      internalID: 6834304937327522735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_33
+      name: Tiilemap_Sheet_Matthew_Madore 1_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee6b5ec97488c350800000000000000
+      internalID: 6037220959178157801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_49
       rect:
         serializedVersion: 2
         x: 128
@@ -999,14 +1386,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7eeeb66062326eb50800000000000000
-      internalID: 6622018948318359271
+      spriteID: ecf76ac261bf22e40800000000000000
+      internalID: 5630338556823502798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_34
+      name: Tiilemap_Sheet_Matthew_Madore 1_50
       rect:
         serializedVersion: 2
         x: 160
@@ -1020,14 +1407,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 257a87ed3ad2c6710800000000000000
-      internalID: 1687774142192461650
+      spriteID: 2e92da52c5899d8c0800000000000000
+      internalID: -3973977674641233438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_35
+      name: Tiilemap_Sheet_Matthew_Madore 1_51
       rect:
         serializedVersion: 2
         x: 192
@@ -1041,14 +1428,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e85168dc35208fef0800000000000000
-      internalID: -74306834897955442
+      spriteID: a97dcdf0a1693bdc0800000000000000
+      internalID: -3624388236423669862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_36
+      name: Tiilemap_Sheet_Matthew_Madore 1_52
       rect:
         serializedVersion: 2
         x: 224
@@ -1062,14 +1449,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48182d934b611f450800000000000000
-      internalID: 6120698331893236100
+      spriteID: 9c72068e1e1048fe0800000000000000
+      internalID: -1187822331941083191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_37
+      name: Tiilemap_Sheet_Matthew_Madore 1_53
       rect:
         serializedVersion: 2
         x: 0
@@ -1083,14 +1470,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9534d8c0e2374a40800000000000000
-      internalID: 5352302623176537502
+      spriteID: d3d71977dfebbbae0800000000000000
+      internalID: -1532421252347495107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_38
+      name: Tiilemap_Sheet_Matthew_Madore 1_54
       rect:
         serializedVersion: 2
         x: 32
@@ -1104,14 +1491,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08d539d19b4bf61c0800000000000000
-      internalID: -4508185994816430720
+      spriteID: 4b35ff5fca7125c00800000000000000
+      internalID: 887798108174373812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_39
+      name: Tiilemap_Sheet_Matthew_Madore 1_55
       rect:
         serializedVersion: 2
         x: 64
@@ -1125,14 +1512,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c117f36937e8a020800000000000000
-      internalID: 2353385038977372614
+      spriteID: 8e402f5f2cd93e000800000000000000
+      internalID: 64068280388814056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_40
+      name: Tiilemap_Sheet_Matthew_Madore 1_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae70a073121637960800000000000000
+      internalID: 7598523791589378026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiilemap_Sheet_Matthew_Madore 1_57
       rect:
         serializedVersion: 2
         x: 160
@@ -1146,14 +1554,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15b20249279c872d0800000000000000
-      internalID: -3280650834590815407
+      spriteID: 58fc1bcb340187ee0800000000000000
+      internalID: -1263241812362801275
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_41
+      name: Tiilemap_Sheet_Matthew_Madore 1_58
       rect:
         serializedVersion: 2
         x: 192
@@ -1167,14 +1575,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbc006c84a1b29d40800000000000000
-      internalID: 5589725407808064701
+      spriteID: 679d7f0ca9607b4a0800000000000000
+      internalID: -6577781469019121290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiilemap_Sheet_Matthew_Madore_42
+      name: Tiilemap_Sheet_Matthew_Madore 1_59
       rect:
         serializedVersion: 2
         x: 224
@@ -1188,8 +1596,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6a56c3e2b9443960800000000000000
-      internalID: 7580765105445821039
+      spriteID: 47340b9f427689fb0800000000000000
+      internalID: -4640846007499734156
       vertices: []
       indices: 
       edges: []

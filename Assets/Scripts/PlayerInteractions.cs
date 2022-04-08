@@ -6,11 +6,15 @@ public class PlayerInteractions : MonoBehaviour
 {
 	public GameObject currentInterObj = null;
 	public Interactables_Manager currentInteractObjScript = null;
+	public int winCount;
+	public GameObject winText;
 
 	private void Update()
 	{
 		if (Input.GetKeyDown(KeyCode.Space) && currentInterObj == true)
 		{ Checkinteraction(); }
+		if (winCount == 5)
+		{ winText.SetActive(true); }
 	}
 	void Checkinteraction()
 	{
@@ -23,7 +27,7 @@ public class PlayerInteractions : MonoBehaviour
 		{ currentInteractObjScript.InfoMessage(); }
 
 		else if (currentInteractObjScript.interType == Interactables_Manager.Interactable_Type.pickUp)
-		{ currentInteractObjScript.PickUp(); }
+		{ currentInteractObjScript.PickUp(); winCount++; }
 
 		else if (currentInteractObjScript.interType == Interactables_Manager.Interactable_Type.dialouge)
 		{ currentInteractObjScript.Dialouge(); }
